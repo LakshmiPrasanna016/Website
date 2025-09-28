@@ -12,6 +12,9 @@ body {
 /* Navigation Bar */
 .navbar {
   background-color: #f5f5f5;
+  background-image: url('https://github.com/LakshmiPrasanna016/Website/blob/main/profile.jpg'); /* Replace with your actual image name */
+  background-size: cover;
+  background-position: center;
   text-align: center;
   padding: 15px 0;
 }
@@ -49,28 +52,3 @@ body {
   color: white;
 }
 
-/* Optional dark overlay for readability */
-.hero::before {
-  content: '';
-  position: absolute;
-  top: 0; left: 0;
-  width: 100%;
-  height: 100%;
-  background-color: rgba(0,0,0,0.4);
-  z-index: 0;
-}
-
-.hero-content {
-  position: relative;
-  z-index: 1;
-}
-
-.hero h1 {
-  font-size: 48px;
-  margin-bottom: 10px;
-}
-
-.hero p {
-  font-size: 24px;
-  color: #ddd;
-}
