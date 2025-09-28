@@ -12,9 +12,6 @@ body {
 /* Navigation Bar */
 .navbar {
   background-color: #f5f5f5;
-  background-image: url('profile.jpg'); /* Replace with your actual image name */
-  background-size: cover;
-  background-position: center;
   text-align: center;
   padding: 15px 0;
 }
