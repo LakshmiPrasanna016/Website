@@ -12,7 +12,7 @@ body {
 /* Navigation Bar */
 .navbar {
   background-color: #f5f5f5;
-  background-image: url('https://github.com/LakshmiPrasanna016/Website/blob/main/profile.jpg'); /* Replace with your actual image name */
+  background-image: url('profile.jpg'); /* Replace with your actual image name */
   background-size: cover;
   background-position: center;
   text-align: center;
@@ -40,7 +40,7 @@ body {
 
 /* Hero Section */
 .hero {
-  background-image: url('https://github.com/LakshmiPrasanna016/Website/blob/main/profile.jpg'); /* Replace with your actual image name */
+  background-image: url('profile.jpg'); /* Replace with your actual image name */
   background-size: cover;
   background-position: center;
   height: 100vh;
